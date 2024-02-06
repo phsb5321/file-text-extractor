@@ -1,0 +1,23 @@
+.
+├── cmd
+│   └── main.go
+├── config
+│   ├── config.go
+│   └── config_test.go
+├── filehandler
+│   ├── filehandler.go
+│   └── filehandler_test.go
+├── go.mod
+├── go.sum
+├── processor
+│   ├── output.txt_1.txt
+│   ├── output.txt_1.txt_3.txt
+│   ├── processor.go
+│   ├── processor_test.go
+│   └── test_dir
+│       └── large.txt
+├── README.MD
+├── run_tests.sh
+└── tree.txt
+
+5 directories, 15 files
